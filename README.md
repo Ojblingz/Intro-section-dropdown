@@ -2,6 +2,8 @@
 
 This is my solution to the Intro Section with Dropdown Navigation challenge from Frontend Mentor.
 
+![Project preview](./preview.jpg)
+
 ## Overview
 
 I built a responsive landing page with interactive dropdown menus and a mobile navigation menu. The goal was to recreate the design as closely as possible while making sure the page works on different screen sizes.
@@ -27,10 +29,10 @@ This project helped me practise responsive web design, positioning dropdown menu
 
 ### Links
 
-- **Live Site:** 
-- **Frontend Mentor Solution:** 
+- **Live Site: https://ojblingz.github.io/Intro-section-dropdown/
+- **GitHub Repository URL: 
 
 ### Author
 
-- GitHub: godwinblessingoj@gmail.com
-- Frontend Mentor: Add your Frontend Mentor profile URL
+- GitHub: (https://github.com/Ojblingz)
+- Frontend Mentor: (https://www.frontendmentor.io/profile/Ojblingz)
