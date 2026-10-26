@@ -30,7 +30,7 @@ This project helped me practise responsive web design, positioning dropdown menu
 ### Links
 
 - **Live Site: https://ojblingz.github.io/Intro-section-dropdown/
-- **GitHub Repository URL: 
+- **GitHub Repository URL: https://github.com/Ojblingz/Intro-section-dropdown
 
 ### Author
 
