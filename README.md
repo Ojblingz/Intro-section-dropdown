@@ -17,8 +17,8 @@ I built a responsive landing page with interactive dropdown menus and a mobile n
 
 ### Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Flexbox
 - Media queries
